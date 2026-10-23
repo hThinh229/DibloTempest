@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="custom.css">
 </head>
 
-<h3 id="gioithieu">Aloo con gà</h3>
+<h3 id="gioithieu">.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diblotempest" alt="diblotempest" /></a> </p>
 
